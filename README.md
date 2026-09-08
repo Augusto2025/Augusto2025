@@ -184,47 +184,39 @@
   <tr>
     <td width="50%" bgcolor="#101218" valign="top">
       <code>● APP_DO_SISTEMA_01</code>
-      <h4>[Nome do Projeto 01]</h4>
-      <p><font color="#737985">[Descrição curta do projeto explicando o objetivo da aplicação e o resultado principal.]</font></p>
-      <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Web</font></p>
+      <h4>Inova Edu</h4>
+      <p><font color="#737985">Plataforma educacional desenvolvida com Django, focada em inovação, aprendizado e organização de repositórios educacionais.</font></p>
+      <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Web · Desktop · Mobile</font></p>
       <p><code>STATUS:</code> <font color="#00E5A0">● ONLINE</font></p>
-      <a href="https://github.com/[SEU_GITHUB]/[PROJETO_01]"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
+      <a href="https://github.com/Augusto2025/Inova-Edu"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
     </td>
     <td width="50%" bgcolor="#101218" valign="top">
       <code>● APP_DO_SISTEMA_02</code>
-      <h4>[Nome do Projeto 02]</h4>
-      <p><font color="#737985">[Descrição curta do projeto explicando o objetivo da aplicação e o resultado principal.]</font></p>
-      <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Web</font></p>
-      <p><code>STATUS:</code> <font color="#00B8FF">⚡ EM DESENVOLVIMENTO</font></p>
-      <a href="https://github.com/[SEU_GITHUB]/[PROJETO_02]"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
+      <h4>Simulador de Financiamento</h4>
+      <p><font color="#737985">Sistema de cálculo para financiamento de imóveis</font></p>
+      <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Desktop · Mobile </font></p>
+      <p><code>STATUS:</code> <font color="#00B8FF">● CONCLUÍDO</font></p>
+      <a href="https://github.com/Augusto2025/Simulador-de-financiamento"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
     </td>
   </tr>
   <tr>
     <td width="50%" bgcolor="#101218" valign="top">
       <code>● APP_DO_SISTEMA_03</code>
-      <h4>[Nome do Projeto 03]</h4>
-      <p><font color="#737985">[Descrição curta do projeto explicando o objetivo da aplicação e o resultado principal.]</font></p>
+      <h4>MenssageFlow</h4>
+      <p><font color="#737985">Um sistema de automação de envio de mensagens para web WhatsApp</font></p>
       <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Desktop</font></p>
-      <p><code>STATUS:</code> <font color="#00E5A0">● ONLINE</font></p>
-      <a href="https://github.com/[SEU_GITHUB]/[PROJETO_03]"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
+      <p><code>STATUS:</code> <font color="#00E5A0">● CONCLUÍDO</font></p>
+      <a href="https://github.com/Augusto2025/MenssageFlow"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
     </td>
     <td width="50%" bgcolor="#101218" valign="top">
       <code>● APP_DO_SISTEMA_04</code>
-      <h4>[Nome do Projeto 04]</h4>
-      <p><font color="#737985">[Descrição curta do projeto explicando o objetivo da aplicação e o resultado principal.]</font></p>
-      <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Mobile</font></p>
-      <p><code>STATUS:</code> <font color="#737985">◌ EM PLANEJAMENTO</font></p>
-      <a href="https://github.com/[SEU_GITHUB]/[PROJETO_04]"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
+      <h4>Cofre Secreto</h4>
+      <p><font color="#737985">Um jogo de quiz para programadores iniciantes em portugol</font></p>
+      <p><code>TECNOLOGIAS:</code> <font color="#00E5A0">Python · Web</font></p>
+      <p><code>STATUS:</code> <font color="#737985">● ONLINE</font></p>
+      <a href="https://github.com/Augusto2025/Cofre-Secreto"><code>[ EXECUTAR / VISUALIZAR ]</code></a>
     </td>
   </tr>
 </table>
 
 ---
-
-### 🔄 PROCESSOS ATUAIS
-
-```sys-telemetry
-[CONSTRUINDO] :: [Nome do projeto atual / aplicação]
-[ESTUDANDO]   :: [Framework / Tecnologia em estudo]
-[EXPLORANDO]  :: [Padrão de arquitetura / Conceito]
-[PRÓX. META]  :: [Objetivo do sistema ou próximo marco]
