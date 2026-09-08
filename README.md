@@ -11,7 +11,7 @@
 
   <!-- Control Panel Links -->
   <p>
-    <a href="https://github.com/[SEU_GITHUB]">
+    <a href="https://github.com/Augusto2025">
       <img src="https://img.shields.io/badge/SISTEMA-GITHUB-101218?style=for-the-badge&logo=github&logoColor=00E5A0&labelColor=08090D" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/[SEU_LINKEDIN]">
@@ -20,7 +20,7 @@
     <a href="https://[SEU_PORTFOLIO]">
       <img src="https://img.shields.io/badge/SISTEMA-PORTFOLIO-101218?style=for-the-badge&logo=googlechrome&logoColor=00E5A0&labelColor=08090D" alt="Portfólio" />
     </a>
-    <a href="mailto:[SEU_EMAIL]">
+    <a href="mailto:Augustogabrielmsousa@gmail.com">
       <img src="https://img.shields.io/badge/SISTEMA-EMAIL-101218?style=for-the-badge&logo=gmail&logoColor=00B8FF&labelColor=08090D" alt="Email" />
     </a>
   </p>
@@ -85,7 +85,7 @@
         <hr noshade size="1" color="#151821"/>
         <table width="100%" border="0" cellspacing="0" cellpadding="4">
           <tr>
-            <td width="33%"><code>▸ FRAMEWORKS:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
+            <td width="33%"><code>▸ FRAMEWORKS:</code> <font color="#F5F7FA">Django</font></td>
             <td width="33%"><code>▸ BIBLIOTECAS:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
             <td width="33%"><code>▸ APIs:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
           </tr>
