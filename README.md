@@ -17,7 +17,7 @@
     <a href="[https://linkedin.com/in/[SEU_LINKEDIN]](https://www.linkedin.com/in/augusto-gabriel-marques-de-sousa-708b7b300)">
       <img src="https://img.shields.io/badge/SISTEMA-LINKEDIN-101218?style=for-the-badge&logo=linkedin&logoColor=00B8FF&labelColor=08090D" alt="LinkedIn" />
     </a>
-    <a href="https://[SEU_PORTFOLIO]">
+    <a href="https://web-augusto.netlify.app/">
       <img src="https://img.shields.io/badge/SISTEMA-PORTFOLIO-101218?style=for-the-badge&logo=googlechrome&logoColor=00E5A0&labelColor=08090D" alt="Portfólio" />
     </a>
     <a href="mailto:Augustogabrielmsousa@gmail.com">
