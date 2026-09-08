@@ -135,8 +135,8 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td width="20%"><code>LINGUAGENS</code></td>
-    <td width="80%">
+    <td width="50%"><code>LINGUAGENS</code></td>
+    <td width="50%">
       <img src="https://img.shields.io/badge/Python-101218?style=flat-square&logo=python&logoColor=00E5A0" />
       <img src="https://img.shields.io/badge/JavaScript-101218?style=flat-square&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/SQL-101218?style=flat-square&logo=sqlite&logoColor=00B8FF" />
