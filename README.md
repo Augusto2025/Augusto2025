@@ -85,14 +85,14 @@
         <hr noshade size="1" color="#151821"/>
         <table width="100%" border="0" cellspacing="0" cellpadding="4">
           <tr>
-            <td width="33%"><code>▸ FRAMEWORKS:</code> <font color="#F5F7FA">Django</font></td>
-            <td width="33%"><code>▸ BIBLIOTECAS:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
-            <td width="33%"><code>▸ APIs:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
+            <td width="33%"><code>▸ FRAMEWORKS:</code> <font color="#F5F7FA">FastAPI, Django, Flask</font></td>
+            <td width="33%"><code>▸ BIBLIOTECAS:</code> <font color="#F5F7FA">Requests, Pandas, Pydantic</font></td>
+            <td width="33%"><code>▸ APIs:</code> <font color="#F5F7FA">RESTful, OpenAPI</font></td>
           </tr>
           <tr>
-            <td width="33%"><code>▸ AUTOMAÇÃO:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
-            <td width="33%"><code>▸ BACKEND:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
-            <td width="33%"><code>▸ FERRAMENTAS:</code> <font color="#F5F7FA">[ADICIONAR_TECNOLOGIA]</font></td>
+            <td width="33%"><code>▸ AUTOMAÇÃO:</code> <font color="#F5F7FA">Selenium, BeautifulSoup</font></td>
+            <td width="33%"><code>▸ BACKEND:</code> <font color="#F5F7FA">PostgreSQL, SQLite</font></td>
+            <td width="33%"><code>▸ FERRAMENTAS:</code> <font color="#F5F7FA">VS Code, Docker</font></td>
           </tr>
         </table>
       </div>
