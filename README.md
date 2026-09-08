@@ -138,39 +138,41 @@
     <td width="20%"><code>LINGUAGENS</code></td>
     <td width="80%">
       <img src="https://img.shields.io/badge/Python-101218?style=flat-square&logo=python&logoColor=00E5A0" />
+      <img src="https://img.shields.io/badge/JavaScript-101218?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/SQL-101218?style=flat-square&logo=sqlite&logoColor=00B8FF" />
     </td>
   </tr>
   <tr>
     <td><code>WEB</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>HTML5, CSS3, REST APIs</code></td>
   </tr>
   <tr>
     <td><code>BACKEND</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>FastAPI, Django, Flask</code></td>
   </tr>
   <tr>
     <td><code>FRONTEND</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>Tailwind CSS, React</code></td>
   </tr>
   <tr>
     <td><code>BANCO DE DADOS</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>PostgreSQL, SQLite</code></td>
   </tr>
   <tr>
     <td><code>DESKTOP</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>PySide6, CustomTkinter</code></td>
   </tr>
   <tr>
     <td><code>MOBILE</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>Flet</code></td>
   </tr>
   <tr>
     <td><code>DEVOPS</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>Git, Docker, GitHub Actions</code></td>
   </tr>
   <tr>
     <td><code>FERRAMENTAS</code></td>
-    <td><code>[ADICIONAR_TECNOLOGIA]</code></td>
+    <td><code>VS Code, PyCharm, Postman</code></td>
   </tr>
 </table>
 
