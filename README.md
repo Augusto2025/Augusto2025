@@ -14,7 +14,7 @@
     <a href="https://github.com/Augusto2025">
       <img src="https://img.shields.io/badge/SISTEMA-GITHUB-101218?style=for-the-badge&logo=github&logoColor=00E5A0&labelColor=08090D" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/[SEU_LINKEDIN]">
+    <a href="[https://linkedin.com/in/[SEU_LINKEDIN]](https://www.linkedin.com/in/augusto-gabriel-marques-de-sousa-708b7b300)">
       <img src="https://img.shields.io/badge/SISTEMA-LINKEDIN-101218?style=for-the-badge&logo=linkedin&logoColor=00B8FF&labelColor=08090D" alt="LinkedIn" />
     </a>
     <a href="https://[SEU_PORTFOLIO]">
